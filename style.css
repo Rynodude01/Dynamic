@@ -1,0 +1,17 @@
+body{
+    background-color: coral;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+#status, #number_of_objects{
+    font-size: 20px;
+}
+canvas{
+    border: 10px ridge black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 130px;
+}
